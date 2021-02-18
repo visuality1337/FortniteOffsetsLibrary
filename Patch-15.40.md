@@ -4,6 +4,7 @@
         UWorld = 0x998ac00
         
         OwningGameInstance = 0x180
+        
         Levels = 0x138
         
         AActors = 0x98
