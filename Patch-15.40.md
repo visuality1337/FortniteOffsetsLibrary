@@ -2,7 +2,7 @@
 # Fortnite Offsets for Patch 15.40
 
 
-        UWorld = 0x998ac00
+        UWorld = 0x9989C10
 
         OwningGameInstance = 0x180
 
