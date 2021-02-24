@@ -66,4 +66,4 @@
 
         ReloadTime = 0xFC
 
-        bAlreadySearched = 0xC41
+        bAlreadySearched = 0xC61
