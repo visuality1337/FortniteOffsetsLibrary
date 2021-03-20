@@ -2,7 +2,7 @@
 
         GetObjectName = 47 65 74 4F 75 74 65 72 4F 62 6A 65 63 74 ? ? 47 65 74 4F 62 6A 65 63 74 4E 61 6D 65 ? ? ?
 
-        UWorld = 0x9BAA2D0
+        UWorld = 0x9BAA2D0 or 0x9BA2D0
 
         OwningGameInstance = 0x180
 
